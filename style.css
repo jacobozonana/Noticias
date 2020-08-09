@@ -1,0 +1,8 @@
+.centrar{
+	display:flex;
+	align-content: center;
+}
+.footerfondo{
+	background-color: rgb(19, 17, 17);
+	color: white;
+}
